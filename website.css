@@ -1,0 +1,264 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.one{
+    width: 100%;
+    height: 10%;
+    background-color: white;
+}
+.image img{
+    width: 50px;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    margin-left: 90px;
+    margin-top: -40px;
+   
+}
+.menu li{
+    margin-left: 20px;
+}
+.search{
+    border: 1px solid black;
+    height: 25px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -18px;
+    border-radius: 20px;
+}
+.tool{
+    width: 16px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+.cj{
+    margin-top: -25px;
+    margin-left: 20px;
+}
+.log img{
+    width: 30px;
+    margin-left: 1450px;
+
+}
+.log{
+    margin-top: -33px;
+}
+.sweet{
+    background-color: darkslategray;
+    margin-top: 30px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.boid button{
+    
+    width: 90px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 20px;
+    
+    
+}
+.dang{
+    height: 100%;
+    width: 90%;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+    
+    
+}
+.ad{
+    height: 250px;
+    width: 1200px;
+    background-color: pink;
+    display: flex;
+    
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    align-items: center;
+}
+.ord button{
+    width: 200px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 190px;
+    margin-left: 170px;
+}
+.juice{
+    width: 130px;
+    border-radius: 50%;
+}
+.juiceglass{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.reco{
+    width: 100%;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+    margin-top: 60px;
+
+}
+.kk{
+    display: flex;
+    justify-content: space-between;
+
+}
+.hed{
+    width: 80rem;
+
+}
+.card{
+    width: 380px;
+    height: 180px;
+    background-color: white;
+    border-radius: 10px;
+margin-top: 80px;
+padding: 20px;
+display: flex;
+}
+.table{
+    display: flex;
+    justify-content: space-between;
+}
+.pic{
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+}
+.Rate{
+margin-top: 20px;
+}
+.lame{
+    width: 120px;
+    height: 35px;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-left: 160px;
+}
+.itmname{
+        margin-top: 10px;
+        padding-left: 10px;
+    
+    justify-content: space-between;
+}
+.new{
+
+    background-color: grey;
+    height: 40rem;
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.hit{
+   
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.mon{
+    background: url("https://preprodtsbstorage.blob.core.windows.net/cms/uploads/ICW_Live_Event_Day5_41f11ca3d2.jpg");
+    height: 30rem;
+    width: 80rem;
+    background-position-x: 0    ;
+    background-position-y: -200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+.mon:hover{
+    filter: brightness(0.5);
+}
+.tex{
+    padding: 20px 0px 0px 20px;
+    
+}
+.dark{
+    color: white;
+    font-size:xx-large;
+    margin-top: 190px;
+
+}
+.noo p{
+    margin-top: 20px;
+}
+.kkk{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+.lop{
+    background-color: darkslategray;
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dude img{
+    width: 50px;
+    border-radius: 50%;
+}
+.drop{
+    display: flex;
+    flex-direction: column;
+}
+.bro{
+    display: flex;
+    flex-direction: column;
+}
+.rap{
+    display: flex;
+    flex-direction: column;
+}
+.nigro{
+    display: flex;
+    width: 80rem;
+    justify-content: space-between;
+}
+.drop a,.bro a,.rap a{
+   margin-top: 20px;
+   color: white;
+}
+.nigro h2{
+    color: white;
+}
+.walter{
+    display: flex;
+    flex-direction: column;
+}
